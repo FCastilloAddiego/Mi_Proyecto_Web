@@ -1,0 +1,16 @@
+body {
+    background-color: greenyellow
+}
+h1 {
+    Font: size 100px;
+    Color: blue;
+    text-align: center;
+}
+p {
+    color:red;
+    font-size: 20px;
+}
+b {
+    font-size:40px;
+    color:black
+}
