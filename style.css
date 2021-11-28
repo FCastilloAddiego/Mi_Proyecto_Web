@@ -1,0 +1,21 @@
+button {
+    background-color: blue;
+    border-radius: 10px;
+}
+
+a:hover {
+    color: orange
+}
+
+body {
+    background-color: red
+}
+
+li {
+    display:inline
+}
+
+.my-image {
+    width:100px;
+    height: 100px;
+}
